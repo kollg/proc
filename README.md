@@ -65,9 +65,9 @@ This repository uses several astronomical Python libraries:
 ## Related Resources
 
 ### Gaia Mission:
-- **Official Website**: https://www.cosmos.esa.int/web/gaia
-- **Gaia Archive**: https://gea.esac.esa.int/archive/
-- **Documentation**: https://gea.esac.esa.int/archive/documentation/
+- **Official Website**: https://www.cosmos.esa.int/web/gaia - Mission overview, latest news, and key results
+- **Gaia Archive**: https://gea.esac.esa.int/archive/ - Access Gaia data catalogs, query tools, and data releases
+- **Documentation**: https://gea.esac.esa.int/archive/documentation/ - Complete technical documentation and data product descriptions
 
 ### Scientific Context:
 - Gaia's data is revolutionizing our understanding of galactic dynamics
